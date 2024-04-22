@@ -7,7 +7,7 @@ Our method, named "Implicit Differentiation for Optimal Control" (IDOC) is used 
 * Inequality constrained
 * Contains non-linear equality constraints in addition to dynamics (such as terminal constraints)
 
-For more details, see our paper (link TBA). Our code integrates seamlessly with the Safe-PDP codebase.
+For more details, see our [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/bcfcf7232cb74e1ef82d751880ff835b-Paper-Conference.pdf). Our code integrates seamlessly with the Safe-PDP codebase.
 
 ## Trajectory Derivatives
 
